@@ -1,2 +1,6 @@
-text/
+TextOrderings
+
 .vscode/
+__pycache__/
+Programs/C++/ProperNounFinder/main
+Programs/C++/ProperNounFinder/main.dSYM
