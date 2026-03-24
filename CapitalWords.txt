@@ -1,0 +1,713 @@
+Kursal: 1
+Woolworth’s: 1
+Good-bye: 1
+Rather: 1
+Potsdam: 1
+Father Fred’s: 1
+I’d: 1
+Whom: 1
+Simple: 1
+John Ayrton: 2
+Ellen Brine: 1
+Somerset: 1
+Tippy Tea: 1
+Golden Tips: 1
+Leda: 1
+Holy Mister Herbert: 1
+John Montagu’s: 1
+Royal: 1
+Colonel Anthony: 1
+Yeats: 1
+Pro: 1
+Anyway: 1
+Had: 1
+Wails: 1
+Chicago: 1
+Norman: 1
+Cadaver Charlie: 1
+Black Museum: 1
+The Blue Rocket: 1
+Knife: 1
+Newbolt’s: 1
+Whistler’s: 1
+Oscar: 1
+Personally: 1
+Dark French Grey: 1
+Augustus: 1
+Ode: 1
+Saint Wigbert’s: 1
+Woodstock: 1
+Byzantine: 1
+Perish: 1
+Caroline Jasmine---what: 1
+Kipling: 1
+Often: 1
+Blake: 1
+Mycroft’s: 1
+Agriculture: 1
+Kismet: 1
+Barbara: 1
+Dagenham: 1
+Alistair: 1
+Auroral: 1
+Ghent: 1
+Here: 1
+Spanish: 1
+Naturally I: 1
+Our: 1
+Cambridge: 2
+Whether: 1
+Bartholomew: 1
+Tayside Inn: 1
+Speckled: 1
+Arty: 2
+Was: 2
+Fleming’s: 1
+Fakes: 2
+Determining: 1
+Bob Martin: 1
+Loganberry Kiss: 1
+Lagopus Scoticus: 1
+Strangely: 1
+Nature’s: 1
+Compact: 1
+But Paris: 1
+Young: 1
+Ripeness: 1
+Calendula: 1
+Thinking: 1
+Manchester: 1
+Goya: 1
+Lucas: 1
+V: 1
+Runymede: 1
+Hamlet’s: 1
+Savage Conqueror: 1
+Harpe: 1
+Because I: 1
+Rue: 1
+Those: 2
+Drake: 1
+Herebald: 1
+Lovely: 1
+Lucius Junius Brutus: 1
+Do: 1
+Rather I: 1
+Efate: 1
+Dutch: 1
+Sunset: 1
+Alexander’s Ragtime Wedding Feast: 1
+Latham Chapel: 1
+Canvas-backed: 1
+Chris: 1
+Whympers: 1
+Felicien Rops: 1
+Beardsley: 1
+Renaissance: 1
+Quasimodo: 1
+Head: 3
+Prohibition: 1
+Could: 1
+Penman: 1
+Prussian: 1
+All: 2
+Lotus: 1
+McLeod: 1
+Needless: 1
+Lent: 2
+Extase: 1
+Babbie’s---hair: 1
+Admittedly I: 1
+Ming: 1
+Trafalgar Square: 1
+Major-General: 1
+Now I: 1
+Darius Brockley: 1
+Jifjaffa: 1
+Munich: 1
+There I: 1
+E: 1
+Doctor Invincibilis: 1
+Lord King: 1
+William: 1
+Broad: 1
+Mist: 1
+Great Lexicographer: 2
+Ought I: 1
+Sundae: 2
+Kreisler: 1
+Dickens�: 1
+Charles: 1
+Trinder: 1
+Who: 1
+Looked: 1
+Freud: 1
+Nuts: 1
+Vicar’s: 1
+Considering: 1
+South Africa: 1
+Stella Polaris: 1
+Amazon: 1
+Over: 2
+Ben’s: 1
+Nut: 1
+Brookesley: 1
+Still I: 1
+Felton’s: 2
+Pippa: 1
+Clare: 1
+Larkin: 1
+Larkin’s: 1
+Heaven: 1
+Old Mill: 1
+La Belle Alliance: 1
+Le: 1
+Nestor: 1
+Miss Doncaster: 1
+Babbie’s---dare I: 1
+Green: 3
+Everything: 1
+Poet Laureate: 1
+Such: 2
+Egg Shell Green: 1
+Queen’s: 1
+Each: 1
+From: 2
+While I: 1
+All England: 1
+Camoens: 1
+Tudor: 1
+French Revolution: 1
+Elynittria: 1
+Palamabron: 1
+Yet I: 2
+Intimations: 1
+Be: 1
+Common Prayer: 1
+Book: 1
+This I: 1
+Clem: 1
+Some Tom: 1
+But Hodge: 1
+If I: 2
+Smiler: 1
+Achard: 1
+Hilary: 1
+Royans: 1
+Now Ecky: 1
+Hélène: 1
+Smells: 1
+Edinburgh: 1
+I’m: 1
+Different: 1
+King’s Cross: 1
+Gemini: 1
+Anyway Ecky: 1
+But I: 20
+Emotional: 1
+Why: 13
+Ye’re: 1
+Ecky: 3
+Is: 4
+Search: 1
+Then I,
+		as: 1
+Poe: 1
+Hall: 2
+Henry’s: 5
+Bond Street: 1
+Selfridget: 1
+Matthew: 1
+Long: 1
+Douglas: 1
+Early Childhood: 1
+Leningrad: 1
+Marseille: 1
+Flecker’s: 1
+Really I: 1
+Saint Bruno: 1
+Not: 3
+George: 1
+Charles Goodfellow: 1
+Combe: 1
+True: 1
+She: 26
+Charlotte Bront�: 1
+Quails: 2
+Babs: 2
+Guy Fawkes: 1
+Julienne: 1
+Saint Lazarus-in-the-Chine: 1
+Still: 2
+Sonia’s: 1
+Colney Hatch: 1
+Later: 1
+Sonia Gordon’s: 1
+Pole: 1
+Were: 1
+Gerard: 1
+Frenchman: 1
+EYT: 1
+Out: 2
+Poor Sonia Gordon: 1
+SIRE: 1
+Video: 1
+Helen: 1
+Though I: 2
+Ronald Firbank: 1
+Afterwards I: 3
+Malta: 1
+Cascading: 1
+Hotspur’s: 1
+Wimpole Street: 2
+Thomas!: 1
+Murders: 2
+Watson: 1
+Wellington Crisp: 1
+Inspector Barraclough: 1
+While: 2
+They: 10
+Bills: 1
+Happily I: 1
+Gathering: 1
+February: 1
+Land: 1
+Bengal: 1
+Also: 5
+Eh: 1
+Cornelius: 1
+Hadn’t Chesterton: 1
+Earl: 2
+There’s: 1
+Did Wodehouse: 1
+Quebec: 1
+Hospitality: 1
+O: 8
+Brussels: 1
+Ben: 1
+Sorry: 1
+Lo: 1
+Gainsborough: 1
+James: 3
+Dame Quickly: 1
+Maturity: 1
+Hyacinth’s: 1
+Was I: 1
+Gardener’s Garters: 1
+Indian: 1
+West African: 1
+Pasquier: 1
+Death: 2
+Hal: 1
+You: 6
+Gone: 1
+One’s: 1
+Forging: 1
+Sawnie: 1
+Sir: 1
+Peaberry Mysore: 1
+Yes: 13
+All I: 1
+GIST: 1
+Charles Victor Hugo Renard-Beinsky: 1
+Severn: 1
+Schoolman---how: 1
+Gradually: 1
+Achilles: 1
+MERCY: 1
+Traffic Problem: 1
+Apparently: 1
+Mithradates: 1
+Through: 1
+Has: 1
+Ben Wade: 1
+Would I: 2
+Someone: 1
+An: 2
+Caroline: 1
+God: 2
+Got: 1
+Not Dolittle: 1
+Distinctly: 1
+Have: 2
+Bloomsbury: 1
+Well: 3
+When: 3
+Go: 1
+Jeremy Taylor: 1
+Immorality: 1
+Alexander’s: 1
+Alas: 1
+Swat: 1
+Con: 1
+Paris: 3
+Roses: 1
+Gianaclis: 1
+Chinese: 1
+Lover’s Delight: 2
+Secondary Schools: 1
+Cape Jasmine: 1
+King: 1
+Houlihan.
+
+Next: 1
+Or Mister Haddock: 1
+Ebenezer Blackwood: 1
+Fidelia Faustina Flora Blackwood: 1
+Circumstances: 1
+Dear: 2
+Thomas Hardy: 1
+Orange Pekoe: 1
+Pure Francis Thompson: 1
+Special Orange Supreme: 1
+B.B.C: 1
+Poor Oscar: 1
+Looking: 1
+Russian: 1
+M.D.: 1
+Chesterton: 1
+Hodge: 1
+May: 12
+CHIVALER: 1
+Toll: 1
+Peter Barleys: 1
+Solve: 1
+Rysbrach’s: 1
+Villacabras: 1
+No Tips: 1
+Coffee: 1
+Explain: 1
+Kent---of Pluckley: 1
+Menkin: 1
+Flora: 6
+Oh: 2
+Now: 4
+Tusitala: 1
+Can I: 1
+Marat: 1
+Can: 1
+Jasmine: 3
+Dartmoor: 1
+Leon: 1
+Asolo: 1
+Henceforth I: 2
+Already: 1
+Excellent: 1
+Read Mark Twain: 1
+Sir Paul,�: 1
+Lord Pentarry: 1
+Mark: 1
+Far: 1
+Bryant: 1
+Calabar Bean: 1
+And Henry: 1
+Henry---surely I: 1
+Eric Parker: 1
+Sir Paul Trinder: 1
+To: 11
+Spey Royal: 1
+Good: 2
+Mole: 1
+Epicam: 1
+Orpen: 1
+Sphinx: 1
+For: 4
+Bramley: 1
+On: 4
+Janetta Sheringham: 1
+Surely: 2
+Etam: 1
+ALME: 1
+Ogpu.�: 1
+Baker Steet: 1
+Padre: 1
+ICY: 1
+Vera Cruz: 1
+After I: 1
+Devona: 1
+Maltese: 1
+IOHAN: 1
+We: 6
+When I: 5
+For I: 1
+Blue Mountain: 1
+Beauty: 1
+Voltaire: 1
+Cerebos: 3
+Gressie: 1
+Henry Morgan: 1
+Palos: 1
+Will’s: 2
+Austin Freeman: 1
+Ear-drops: 1
+Sometimes I: 1
+What: 21
+William Sydney Porter: 1
+Very: 1
+Usually: 1
+McCrimmons: 1
+Human Comedy: 1
+Yesterday: 1
+If Henry: 1
+Free Knowledgist: 1
+Like: 1
+Many: 1
+M’Cullough: 2
+Poor: 3
+Kate Somerset: 1
+Here I: 1
+Puffing: 1
+Irishman’s: 1
+Charles Day: 1
+Moning: 2
+Aquarius: 2
+Even: 2
+Rill: 1
+Grace: 1
+Sitting: 1
+Duchess: 1
+Lyons: 1
+Hebe: 1
+SA: 1
+But: 62
+Lapsang: 3
+Annandale: 1
+Flora’s Jasmine: 1
+Banana Split: 1
+He’s: 1
+Or: 4
+Conveniently: 1
+Nagpur: 1
+Waterloo: 1
+Dawn: 3
+Unwrapped: 1
+Moon: 2
+Egyptian: 1
+That: 19
+Bellerophon: 1
+Suddenly I: 2
+Nor: 4
+Here’s: 1
+Bill: 4
+Lauder: 1
+Highgate Empire: 1
+Southend: 1
+Eugene Sue: 1
+Sanders: 1
+Mary’s: 1
+Shakespeare’s: 1
+Atimetus: 1
+Pope: 1
+Alexander: 4
+Didlittle: 1
+Sarah Drew: 1
+Luke: 1
+England: 6
+Richard: 1
+Gourdoulis: 1
+Band: 1
+Strange: 2
+It: 57
+John Hewit: 1
+De Mauves: 1
+Instead: 2
+Caf�: 1
+Whiskified: 1
+Hardy’s: 1
+John: 3
+Some: 2
+Left Luggage Office: 1
+Jack’s: 2
+Just: 6
+Ocalythron.
+
+Then: 1
+Calabar: 1
+And Ruth: 1
+Yet: 4
+How: 7
+Dean: 1
+Lucendo: 1
+Which: 1
+Gills: 1
+Grundy Sapphic: 1
+Jim: 1
+Could I: 1
+Allenburn: 1
+Ravager: 1
+So I: 2
+And I: 10
+Rainbow: 1
+Tears: 1
+So: 2
+Flecker: 1
+His: 4
+Casy Ferris: 1
+Rub: 1
+Mary Roberts Rinehart: 1
+Wotton: 1
+Phalaris: 1
+Boots: 1
+DE: 1
+Peebles University: 1
+Xenocrate: 1
+Kilmarnock: 1
+Next: 2
+Wilkie Bard: 1
+London: 2
+Jim’s: 1
+Rintrah: 2
+Didling: 1
+Of Cathleen: 1
+Newdigate: 1
+Paulo Post Avorticists: 1
+Annie: 1
+May.�: 1
+Sandy: 2
+By: 2
+Bat: 1
+Ponce: 1
+Really: 2
+A: 17
+Then: 6
+Dorset: 1
+If: 9
+Conrad: 2
+Because: 1
+Elsie’s: 1
+Father: 1
+Bisto: 1
+Phrases: 1
+Bunny: 2
+That’s: 2
+Dort: 1
+Where: 3
+Surprisingly: 1
+Perceval: 2
+Maestro Jimson’s: 1
+Adriatic: 1
+Off: 1
+Forth: 1
+Clément: 1
+Noel Coward’s King Charles’s Head: 1
+Firth: 1
+Mrs: 5
+Jasmine’s: 1
+Thermopylae: 1
+Meed: 1
+With: 2
+Useful: 1
+Sed: 1
+Crataegus Oxyacantha: 1
+Day: 1
+Mister Hall: 2
+As I: 5
+Monk Arnulphus: 1
+Homonoea: 1
+Electric Febrifuge: 1
+DAUBERNOUN: 1
+Catharine: 1
+Bart: 1
+In: 7
+This: 5
+One: 3
+Cressida: 1
+Port: 1
+He: 64
+Its: 1
+Westphalian: 2
+Ahkoond: 1
+Freudian: 1
+Knight: 1
+Death’s: 2
+Emperor’s Peg---equal: 1
+The Monk Arnulphus: 1
+Should I: 1
+Perry: 2
+Youth: 1
+After: 7
+Mumpers.�: 1
+Spartan: 1
+English: 2
+The Highgate Empire: 1
+Evelyn Hope: 1
+Browning: 2
+Eros: 1
+Buddhistic: 1
+Henry: 47
+Perhaps: 3
+Guido: 1
+Quarry: 1
+Her: 6
+Don’t: 1
+Your: 2
+Speckled Band: 1
+Thornhill: 1
+Orchard: 1
+Poles: 1
+Sir Weedon: 1
+Utrecht: 1
+Amsterdam: 1
+Pasquier’s: 1
+Sarah’s: 1
+Queen’s Hall: 1
+Sir Roland Mowthalorn: 1
+Then I: 5
+Oeuvre: 1
+Caseus: 1
+Typhoon: 1
+Broadmoor: 1
+Clement: 1
+There: 15
+Gay: 1
+Killing: 2
+American: 1
+Cynthia: 1
+Giulio: 1
+What Hopes: 1
+Leonidas: 1
+My: 18
+Thames Ditton’s: 1
+Scotland Yard: 1
+Tell: 1
+Tom: 1
+I: 701
+Jew’s: 1
+Lesurques: 1
+Medehamstede: 1
+Vandyck: 1
+Illyrian: 1
+Plover’s Lunch: 1
+Falkland: 1
+The: 64
+Armadale Castle: 1
+Hodder: 1
+Would: 3
+Gardenias: 1
+City: 1
+DEV: 1
+Gelsemium: 1
+I’ve: 1
+Mavis Kitchener: 1
+Allingham: 1
+Call: 1
+Belmerino: 1
+Oppenheim: 1
+Underneath: 1
+Ireland: 2
+And: 38
+No: 8
+Of: 6
+Francis Ferdinand’s: 1
+Ah: 3
+As: 1
+Ugh: 1
+Cain: 1
+Le Cirque: 1
+Medici: 1
+Quincey: 2
+Sir Roland’s: 1
+Cave: 1
+Fordor: 1
+Tate: 2
+At: 11
