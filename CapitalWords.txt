@@ -136,7 +136,7 @@ Great Lexicographer: 2
 Ought I: 1
 Sundae: 2
 Kreisler: 1
-Dickensâ€: 1
+Dickensï¿½: 1
 Charles: 1
 Trinder: 1
 Who: 1
@@ -232,7 +232,7 @@ Charles Goodfellow: 1
 Combe: 1
 True: 1
 She: 26
-Charlotte BrontÃ: 1
+Charlotte Brontï¿½: 1
 Quails: 2
 Babs: 2
 Guy Fawkes: 1
@@ -394,7 +394,7 @@ Henceforth I: 2
 Already: 1
 Excellent: 1
 Read Mark Twain: 1
-Sir Paul,â€: 1
+Sir Paul,ï¿½: 1
 Lord Pentarry: 1
 Mark: 1
 Far: 1
@@ -418,7 +418,7 @@ Janetta Sheringham: 1
 Surely: 2
 Etam: 1
 ALME: 1
-Ogpu.â€: 1
+Ogpu.ï¿½: 1
 Baker Steet: 1
 Padre: 1
 ICY: 1
@@ -511,7 +511,7 @@ It: 57
 John Hewit: 1
 De Mauves: 1
 Instead: 2
-CafÃ: 1
+Cafï¿½: 1
 Whiskified: 1
 Hardyâ€™s: 1
 John: 3
@@ -562,7 +562,7 @@ Of Cathleen: 1
 Newdigate: 1
 Paulo Post Avorticists: 1
 Annie: 1
-May.â€: 1
+May.ï¿½: 1
 Sandy: 2
 By: 2
 Bat: 1
@@ -626,7 +626,7 @@ Should I: 1
 Perry: 2
 Youth: 1
 After: 7
-Mumpers.â€: 1
+Mumpers.ï¿½: 1
 Spartan: 1
 English: 2
 The Highgate Empire: 1

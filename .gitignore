@@ -4,3 +4,7 @@ TextOrderings
 __pycache__/
 Programs/C++/ProperNounFinder/main
 Programs/C++/ProperNounFinder/main.dSYM
+Programs/C++/DataObtainer/a.out
+Programs/C++/DataObtainer/CainFormat.csv
+Programs/C++/WordUsage/a.out
+Programs/C++/WordUsage/CainFormat.csv

@@ -2,7 +2,7 @@
 #include <fstream>
 #include "list.h"
 
-std::unordered_map<std::string, std::string> contractions = {{"Mr.", "Mister"}, {"Ms.", "Miss"}, {"St.", "Saint"}};
+std::unordered_map<std::string, std::string> contractions = {{"Mr.", "Mister"}, {"Ms.", "Miss"}, {"Mrs.", "Mistress"}, {"Dr.", "Doctor"}, {"Prof.", "Professor"}, {"Revd.", "Reverend"}, {"Rev.", "Reverend"}, {"St.", "SaintOrStreet"}, {"Jr.", "Junior"}, {"Sr.", "Senior"}};
 
 list pagesToList(std::vector<std::string> pages){
   list words = list();
